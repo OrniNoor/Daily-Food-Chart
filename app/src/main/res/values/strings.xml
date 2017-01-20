@@ -1,0 +1,206 @@
+<resources>
+    <string name="app_name">"Five types of daily food plan"</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_food_plan_for_kids">Five types of daily food plan</string>
+    <string name="title_activity_food_plan_for_adult">Five types of daily food plan</string>
+    <string name="title_activity_food_plan_for_older">Five types of daily food plan</string>
+
+    <string name="title_activity_food_plan_for_lose_weight">Five types of daily food plan</string>
+    <string name="title_activity_food_plan_for_gain_weight">Five types of daily food plan</string>
+    <string name="kids_image_button_string">For kids </string>
+    <string name="adult_image_button_string">For Adult </string>
+    <string name="old_image_button_string">For Old age </string>
+    <string name="gain_image_button_string">For weight gain</string>
+    <string name="lose_image_button_string">For weight lose</string>
+    <string name="exit_image_button_string">Exit </string>
+    <string name="kids_title_button_string">Balanced diet for kids </string>
+    <string name="adult_title_button_string">Balanced diet for Adult </string>
+    <string name="old_title_button_string">Balanced diet for Old age </string>
+    <string name="gain_title_button_string">Balanced diet for weight gain</string>
+    <string name="lose_title_button_string">Balanced diet for weight lose</string>
+
+
+
+    <string name="gain_weight_food_plan_string">\n\nBreakfast\n\n
+
+
+1. 1 cup fortified Bran Flakes\n
+2. 1 cup Skim or Soymilk \n
+3. 1 medium Banana\n
+4. 0.5 cup Egg , scrambled\n\n
+
+Snack #1\n\n
+
+1. 1 cup Soy Yogurt\n
+2. 2 tbsp granola\n
+3. 0.2 cup raisin\n\n
+
+Lunch\n\n
+
+1. pizza(medium)/pasta(1 bowl)\n
+2. 2 tbsp Tomato Salsa (low sodium)\n
+3. 1 cup Fruit Salad\n
+4. chicken(1cup) \n\n
+
+Snack #2\n\n
+
+1. 1 cup Blueberries, fresh\n
+2. 5 Whole Wheat Crackers \n\n
+
+Dinner\n\n
+
+1. 0.5 cup Whole Wheat Pasta\n
+2. 0.5 cup regular Pasta\n
+3. 0.6 cup Tomato Sauce (low sodium)\n
+4. 1 tbsp Garlic\n
+5. 0.25 cup fresh Cilantro\n
+6. 6 Soy ‘Meatballs’\n
+7. 1 small Garden Salad (mixed lettuce, tomatoes, carrots)\n
+8. 2 tbsp Salad Dressing (with fat)\n\n
+
+Snack #3\n\n
+
+1. cup Light Vanilla Soymilk\n
+2. sheets Graham Crackers \n
+
+    </string>
+
+    <string name="lose_weight_food_plan_string">
+ \n\nBreakfast\n\n
+
+1. 12 oz. Coffee (w/ caffeine)\n
+2. 1 cup Milk (skim)\n
+3. 1 package Instant Oatmeal\n
+4. 1 Orange\n\n
+
+Snack #1\n\n
+
+1. 1 cup Cottage Cheese
+(1%; no/low sodium)\n
+2. 0.5 cup peaches (raw)\n\n
+
+Lunch\n\n
+
+1. 2 slices Whole Wheat Bread\n
+2. 2 oz. Turkey Breast (white, low sodium)\n
+3. 0.5 cup Alfalfa Sprouts\n
+4. 0.2 cup Tomato\n
+5. 1 cubic inch Cheddar Cheese\n
+6. 0.2 cup Lettuce\n\n
+
+Snack #2\n\n
+
+1.1 Medium Banana\n
+2. 2 tbsp. Peanut Butter (natural)\n\n
+
+Dinner\n\n
+1. 5 oz. Tilapia\n
+2. 0.25 cup Fresh Cilantro\n
+3. 1 cup Steamed Brown Rice\n
+4. 0.5 cup Mixed Steamed Broccoli\n
+5. Yellow Squash\n
+6. 1 small Salad\n
+7. 2 tbsp Fat Free Dressing\n
+
+    </string>
+
+    <string name="kids_food_plan_string">
+   \nBreakfast\n\n
+1. Fruits(1.5 cups)/Fruit juice(250ml)\n
+2. 1 bowl vegetable/ vegetable oats \n
+3. Cheese 1cup\n
+        4. 1 Egg/ 2 chicken broast\n
+5.  Multigrain bread/ wheat bran flakes/
+        corn flakes (5 ounces)\n\n
+
+Mid morning\n\n
+1. Fruit juice(250ml)/ yogurt(1 cup)\n\n
+
+Lunch\n\n
+1.  Rice(1.5 cup)/ nun/ Paratha \n
+2.  pulse/egg curry(1 cup)\n
+3.  Curd(1 cup)\n
+4.  Vegetable(1.5 cups)\n\n
+Snacks\n\n
+1. biscuit/roasted chana/ peas(1 cup)\n
+2. Sandwitch/vegetable roll/Burger\n
+3. Soup\n\n
+Dinner\n\n
+1. Rice/ nun/ Paratha(1 cup) \n
+2. pulse/egg curry\n
+3. chicken/fish(1 cup)\n
+4. Curd/sweet dishes(1 cup)\n
+    </string>
+
+    <string name="adult_food_plan_string">
+    \n\nBreakfast\n\n
+
+1. 1 cup Milk (skim)\n
+2. 1 c Strawberries (fresh)\n
+3. 1 Bagel (whole wheat)\n
+4. 2 tbsp Cream Cheese\n
+5. 0.1 c raisins (seedless)\n\n
+
+Snack #1\n\n
+
+1. 1 medium Apple\n
+2. 0.25 cup whole Almonds\n\n
+
+Lunch \n\n
+1. 1 cup Cranberry Juice (light)\n
+2. 1 Whole Wheat Pitha\n
+3. 3 oz. Light Tuna (in water)\n
+4. 1 tbsp Mayo (light)\n
+5. 0.25 cup sliced Tomato\n
+6. 0.2 cup Spinach Leaves (raw)\n
+7. 1 medium Orange\n\n
+
+Snack #2\n\n
+
+1. 1 cup cauliflower (fresh, raw)\n
+2. 1 tbsp veggie dip\n\n
+
+Dinner \n\n
+1. 4 oz. Chicken Breast \n
+2. 1 tbsp Lemon Juice (fresh)\n
+3. 1 tbsp Ground Pepper (fresh)\n
+4. 1 small Sweet Potato (baked)\n
+5. 1 small Salad\n
+      - 0.2 cup cucumber\n
+      - 0.2 cup diced tomato\n
+      - 0.2 cup diced sweet peppers\n
+      - 1 tbsp lemon juice\n
+      - 1 tsp parsley (dried)\n
+6. 1 small Whole Wheat Roll\n\n
+
+Snack #3\n\n
+
+1. 1 cup Plain, Non fat Yogurt\n
+2. 1 cup Blueberries\n
+
+    </string>
+    <string name="old_food_plan_string">\n\nBreakfast\n\n
+
+1. 1 bowl vegetable/bread\n
+2. Cheese 30g\n
+        3. fruit juice\n\n
+Mid morning\n\n
+        1. Fruit juice/yogurt\n\nLunch\n
+1.  Rice/ nun/ Paratha \n
+2.  pulse/egg curry\n
+3.  Curd\n\n
+Snacks\n\n
+1. biscuit/roasted chana/ peas\n
+2. Sandwitch\n
+3. Soup\n\n
+Dinner\n\n
+1. Rice/ nun/ Paratha \n
+2. pulse/egg curry/chicken/fish\n
+3. Curd\n
+
+    </string>
+
+
+</resources>

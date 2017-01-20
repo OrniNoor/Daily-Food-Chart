@@ -1,0 +1,166 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+   android:layout_gravity="center"
+    android:gravity="center">
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+
+        android:layout_gravity="center_vertical">
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center">
+
+
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:id="@+id/imageButtonKids"
+                android:gravity="center"
+                android:layout_marginRight="5dp"
+                android:layout_marginLeft="5dp"
+                android:background="@drawable/kids"/>
+
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:id="@+id/imageButtonAdult"
+                android:gravity="center"
+                android:layout_marginRight="5dp"
+                android:scaleType="fitXY"
+                android:background="@drawable/adult"/>
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:id="@+id/imageButtonOld"
+                android:layout_marginRight="5dp"
+                android:scaleType="fitXY"
+                android:background="@drawable/old"/>
+
+        </TableRow>
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center"
+            >
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="fill_parent"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/kids_image_button_string"
+                android:gravity="center"
+                android:id="@+id/textView2"
+                android:layout_column="0" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="fill_parent" android:layout_margin="5dp"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/adult_image_button_string"
+                android:layout_gravity="center"
+                android:gravity="center"
+                android:layout_marginLeft="20dp"
+                android:id="@+id/textView3"
+                android:layout_column="1" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="fill_parent"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/old_image_button_string"
+                android:layout_gravity="center"
+                android:gravity="center"
+
+                android:id="@+id/textView4"
+                android:layout_column="2" />
+        </TableRow>
+
+
+
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:gravity="center_horizontal"
+            android:layout_margin="10dp">
+
+
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:id="@+id/imageButtonGain"
+                android:gravity="center"
+                android:scaleType="fitXY"
+                android:layout_marginRight="10dp"
+                android:background="@drawable/gain"/>
+
+
+            <ImageButton
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:id="@+id/imageButtonLose"
+                android:scaleType="fitXY"
+                android:gravity="center"
+
+                android:background="@drawable/lose4"/>
+
+
+
+
+
+        </TableRow>
+        <TableRow
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:gravity="center_horizontal"
+            android:layout_gravity="center"
+            >
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="fill_parent"
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/gain_image_button_string"
+                android:gravity="center"
+                android:id="@+id/textView5"
+
+
+                android:layout_column="0" />
+
+            <TextView
+                android:layout_width="100dp"
+                android:layout_height="fill_parent"
+
+                android:textAppearance="?android:attr/textAppearanceLarge"
+                android:text="@string/lose_image_button_string"
+                android:layout_gravity="center"
+                android:gravity="center"
+
+                android:id="@+id/textView6"
+                android:layout_column="1" />
+
+
+        </TableRow>
+
+
+
+    </TableLayout>
+
+
+    </LinearLayout>
